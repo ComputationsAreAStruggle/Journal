@@ -13,7 +13,7 @@ The problem comes when trying to structure time spent alone
 	--> there's no external (3rd) party to provide a "looking glass mirror"....
 		so what to do?
 
-This is my attempt at an algorithm to structure my time. Every day, I will make a log of my day. This log will include the following in an organized manner:
+This is my attempt at an algorithm to structure my time. Every day, I will make a log of my day. This log will include the following in an organized manner (not necessarily same format as below):
 1) accomplishments (and time taken for each in order to calculate efficiency)
 2) failures (and how long each lasted)
 3) health --> food eaten, exercise done, wake time and sleep time
