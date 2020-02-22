@@ -3,7 +3,7 @@ Unstructured time is wasted time. How to structure time? One possible long-term 
 
 ## usual methods to structure time: 
 	 1) group studying (bc we care so much about self image that we dont want to look 
-			bad")
+			bad)
 	 2) classroom because there's a certain expected behavior
    
 in theory, anything could structure time, however, some methods are (much) easier than others.     
